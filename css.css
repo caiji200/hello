@@ -1,0 +1,18 @@
+/* .h1{
+    font-size: 100px;
+    color: red;
+} */
+
+#biaoti{
+    font-size: 100px;
+    color: red;
+}
+
+body > p{
+    background-color: pink;
+
+}
+
+h1 ~ p{
+    background-color: green;
+}
